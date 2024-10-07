@@ -28,8 +28,8 @@ As a entry level of Data field. I'm eager to delve deeper into Python, SQL, Data
 <!--START_SECTION:waka-->
 
 ```txt
-Create Website Porfolio
-Editing Resume
+Seeking for a new job
+New E-Commerce Store
 Design some image
 ```
 
