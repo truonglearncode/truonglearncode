@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.laobi.icu/badge?page_id=truonglearncode.truonglearncode)
 
-I'm a senior student in E-Commerce major at Ho Chi Minh City University of Technology and Education. I really interest in Data, Machine Learning and I want to learn anything about it
+I recently graduated in E-Commerce major from Ho Chi Minh City University of Technology and Education and currently available for work. I really interest in Data, Machine Learning and I want to learn anything about it
 
 As a entry level of Data field. I'm eager to delve deeper into Python, SQL, Data Structure, Visualization... It help me growth up in future career. But now, i'm seeking entry-level or internship positions in Data Analytics, Data Science, Data Engineering, or related fields.
 
