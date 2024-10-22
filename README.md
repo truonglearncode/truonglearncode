@@ -17,7 +17,7 @@ As a entry level of Data field. I'm eager to delve deeper into Python, SQL, Data
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I recently graduated in E-Commerce from HCMUTE;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently seeking for Data Analytic Intern/Fresher Position;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently seeking for Data Analytic Fresher/Intern;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: quangtruongngo275@gmail.com;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [English Resume](http://ngoquangtruong.id.vn/wp-content/uploads/2024/10/Resume-Ngo-Quang-Truong-1.pdf) - [Vietnamese Resume](http://ngoquangtruong.id.vn/wp-content/uploads/2024/10/Resume-Ngo-Quang-Truong-Vietnamese.pdf)
