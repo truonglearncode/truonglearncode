@@ -29,8 +29,7 @@ As a entry level of Data field. I'm eager to delve deeper into Python, SQL, Data
 
 ```txt
 Seeking for a new job
-New E-Commerce Store
-Design some image
+
 ```
 
 <!--END_SECTION:waka-->
